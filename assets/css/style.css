@@ -1,0 +1,33 @@
+.zr-related-post-box {
+    margin-top: 50px;
+}
+
+.zr-related-post-head h2 {
+    margin: 0;
+}
+
+.zr-related-post-head {
+    margin-bottom: 25px;
+}
+
+.zr-related-post {
+    display: flex;
+    column-gap: 15px;
+    border: solid 1px #e5e5e5;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.zr-related-post:hover {
+    background: #f1f1f1;
+}
+
+.zr-related-post-title {
+    font-size: 20px;
+}
+
+.zr-related-post-thumbnail {
+    display: flex;
+    align-items: center;
+}
