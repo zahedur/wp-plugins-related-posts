@@ -8,7 +8,7 @@ A WordPress plugin that displays up to 5 related posts at the end of each post.
 
 1. **Download the Plugin**
 
-    - Download the plugin zip file from the [GitHub repository](https://github.com/your-username/your-plugin).
+    - Download the plugin zip file from the [GitHub repository](https://github.com/zahedur/wp-plugins-related-posts).
 
 2. **Upload to WordPress**
 
